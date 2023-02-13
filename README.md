@@ -1,4 +1,4 @@
-# R-and-Statistics-HSE-course
+# R and Statistics HSE course
 Курс по R и статистике в ВШЭ (с Иваном Поздняковым).
 
 Упражнения на R в рамках курса по R в ВШЭ. 
